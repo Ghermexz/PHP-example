@@ -3,6 +3,7 @@
 
 <form action="prueba.php" method="post">
     <?php
+    echo "hola";
     $nombre = "";
     $password = "";
     $correo = "";
